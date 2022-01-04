@@ -13,3 +13,4 @@ Randomly generated.
 
 ## Sample output
 
+![Init Data](./sample_output/init_data.png)
